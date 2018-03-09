@@ -1,8 +1,0 @@
-Я выполнила задание Rake до появления новых инструкций на wikispaces, 
-файлы выполненного задания лежат в папке hw1:
-
-HW1_Rake.docx
-HW1_Rake.ipynb
-rake_eng_text.txt
-rake_rus_text.txt
-rake/RAKE-tutorial-master/rake.py
